@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo|Cabin|Catamaran|Open+Sans');
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+#barra{
+	height:60px;
+	background-color: grey;
+	position:float;
+	position:fixed;
+	width:100%;
+	margin-right:325px;
+}
+#publi {
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+    position: fixed;
+    overflow: hidden;
+    text-align: center;
+    width: 300px;
+	right:5px;
+	margin-top:70px;
+
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: blue;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+    letter-spacing: 2px;
+	z-index:50;
+}
+
+.navbar li {
+    height: 100%;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #FFF !important;
+}
+.navbar li a, .navbar .navbar-brand {
+    color: blue !important;
+}
+
+.navbar-nav li.active {
+    color: #fff !important;
+    background-color: #FFF !important;
+}
+	
+.navbar-nav li a:hover{
+    color: #ccc !important;
+    background-color: blue !important;
+}
+
+.navbar-nav li a:focus {
+    color: blue;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: blue !important;
+}
+.g {
+	color:red;
+}
+
+
+#inicio{
+	margin-right:325px;
+	background:url('../img/f.jpg') no-repeat;
+	background-size:cover;
+	color:#fff;
+	margin-top:60px;
+	
+}
+#scrolling{
+float:right;
+}
+
+.noticias h1{
+	font-weight:bold;
+}
+.fecha{
+	text-align: right;
+	margin-bottom: 10px;
+	padding-right: 10px;
+	font-size: 10px;
+}
+
+.fecha .glyphicon{
+	color: blue;
+}
+
+.jumbotron {
+    background-color: #1C1C1C;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: sans-serif;
+}
+
+#stats p{
+	margin-top: 15px;
+}
+
+.glyphicon {
+    font-size: 150%;
+    margin-bottom: 20px;
+    color: blue;
+    vertical-align: middle;
+}
+#pie{
+	margin-right:315px;
+	background:url('../img/f.jpg') no-repeat;
+	margin-top: 35px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+    color: #fff;
+	}
+
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: blue;
+}
+.continuar{
+	text-align:right;
+}
+
+.main-container{
+	font-size: 18px;        
+}
+.media{
+	
+	width:100%;
+	background-color:transparent;
+	color:transparent;
+
+}
+
+/* Medium and Large Devices Desktops */
+@media (min-width: 768px) { 
+    .main-container{
+        width: calc(100% - 325px);;
+    }
+
+    .advert-container{
+        width: 300px;
+        background-color: #B40431;
+        float:right;
+        height: 500px;
+    }
+
+    .advert-container p{
+        padding-top: 40px;
+        color: #000;
+        font-family: Arial;
+        font-weight: bold;
+    }
+		#publi {
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+    position: fixed;
+    overflow: hidden;
+    height:calc(100% - 80px);
+	text-align: center;
+    width: 300px;
+	right:5px;
+	margin-top:70px;
+
+}
+}
+
+
+@media (min-width: 1400px) { 
+    .main-container{
+        width: calc(100% - 325px);;
+    }
+	#publi {
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+    position: fixed;
+    overflow: hidden;
+    height:calc(100% - 80px);
+	text-align: center;
+    width: 300px;
+	right:5px;
+	margin-top:70px;
+
+}
+    .advert-container{
+        width: 300px;
+        background-color: #B40431;
+        float:right;
+        height: 500px;
+    }
+
+    .advert-container p{
+        padding-top: 40px;
+        color: #000;
+        font-family: Arial;
+        font-weight: bold;
+    }
+}
+
+@media (max-width: 767px) {
+    .advert-container{
+        width: 100%;
+        position: fixed;
+        z-index: 99999;
+        top: 0;
+        left: 0;
+        height: 90px;
+        background-color: #B40431;
+    }
+
+    .advert-container p{
+        padding-top: 40px;
+        color: #000;
+        font-family: Arial;
+        font-weight: bold;
+    }
+
+    .advert-container .imagen img{
+        padding-top: 10px;
+        height: 80px;
+    }
+
+    .advert-container .imagen p{
+        display: none;
+    }
+
+}
+
+
+
+
+

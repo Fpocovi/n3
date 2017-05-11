@@ -1,0 +1,29 @@
+[
+	{
+		"id":"noti4",
+		"nav_element":"Sucesos",
+		"titulo":"Detenido un atracador francés que ha hecho estragos en diversos puntos de Menorca",
+		"desc":"La Policía Nacional detuvo este martes en Alaior a un ciudadano francés de 42 años acusado de amenazar con un cuchillo a una empleada del poblado prehistórico de talaiots de Maó y llevarse la recaudación de la caja registradora. Los hechos ocurrieron el pasado 4 de mayo.Al presunto autor del robo se le imputa también la sustracción de un camión de reparto de bebidas en Maó así como el de un coche de una clínica en Cala d´ en Blanes y dos furgonetas sustraídas en Ciudadela y en Fornells. Este último robo fue perpetrado en la madrugada del lunes al martes, poco antes de su detención.El detenido llegó a Menorca a mediados de abril, y desde entonces no paró de delinquir en las distintas localidades de la Isla. Sustrayendo en cuatro ocasiones diferentes vehículos, los cuales se da la circunstancia que todos ellos sus conductores habían dejado las llaves puestas. El último lo cometió en Fornells, donde robó una furgoneta de un restaurante en cuyo interior se hallaba un sobre que contenía los 50.000 euros de la recaudación. El montante total del dinero sustraído solo ha podido ser recuperado en parte.Se da la circunstancia que el detenido estuvo hace dos años en la prisión de Menorca, de la que fue trasladado para terminar de cumplir condena en Francia, al tener una Orden Europea de detención.",
+		"datetime":"10/05/2017 15:00",
+		"imgmid":"img/ladron.png",
+		"imgbig":"4"
+	},
+	{
+		"id":"noti5",
+		"nav_element":"Deportes",
+		"titulo":"Chris Froome, atropellado mientras entrenaba por un vehículo que se dio a la fuga",
+		"desc":"",
+		"datetime":"09/05/2017 11:00",
+		"imgmid":"img/froom.png",
+		"imgbig":"5"
+	},
+	{
+		"id":"noti6",
+		"nav_element":"Internacional",
+		"titulo":"Ven olas de lava en el volcán más grande de luna Io, en Júpiter",
+		"desc":"La investigación, publicada en la revista Nature y liderada por el Departamento de Astronomía de la Universidad de Berkeley  (California), ha producido, además, un detallado mapa de esa zona volcánica, gracias a la particular alineación observada entre las lunas Io y Europa.El 8 de marzo del 2015, recuerdan los expertos, Europa, en su órbita alrededor de Júpiter, pasó por delante de Io, lo que bloqueó gradualmente la luz procedente de la luna volcánica.Dado que la superficie de Europa está cubierta de agua helada, esta refleja muy poca luz solar en longitudes de ondas de infrarrojos, lo que permite a los investigadores detectar con precisión el calor que emanan de los volcanes de Io.Los datos obtenidos mostraron que la temperatura de superficie del enorme lago de magma de Io aumentaba rápidamente desde un extremo al otro, lo que sugiere que la lava se derrumba a través de dos olas que se mueven de oeste a este a un ritmo de en torno a un kilómetro por día.“Si Loki Patera es un mar de lava, abarca una zona un millón de veces más grande que la de un lago de lava típico en la Tierra. En este escenario, porciones de corteza enfriada se hunden y dejan expuesto el magma incandescente, lo que produce un resplandor en el infrarrojo”, señala Katherine de Kleer, de la Universidad de Berkeley y autora principal del estudio.Este proceso de derrumbamiento de lava, apuntan los científicos, explicaría la periodicidad con la que brilla o se oscurece el llamado “punto caliente”  de Loki Patera, cuya superficie es de 21 mil 500 kilómetros cuadrados.Los expertos detectaron por primera vez estos cambios de luminosidad sobre esta zona volcánica de Io en la pasada década de los años 70, pero no constaron que se debían a erupciones de lava hasta que la misiones Voyager 1 y 2 lo sobrevolaron en 1979.A pesar de que la misión Galileo ha aportado después imágenes de alta definición, los astrónomos debaten aún si los resplandores en Loki Patera, que ocurren cada 400 o 600 días, se deben al derrumbamiento de lava en el gran lago de magma o a erupciones periódicas que derraman ríos de lava sobre una extensa área. Para su colega Ashley Davies, esta investigación demuestra la existencia de “no solo una, sino de dos olas resurgentes”  que “barren la patera”, un proceso “mucho más complejo de lo que creíamos” .",
+		"datetime":"11/05/2017 18:21",
+		"imgmid":"img/luna.jpg",
+		"imgbig":"6"
+	}
+]
